@@ -1,11 +1,7 @@
 ### <div align="center">Hello everyone, my name is Alexey, I am a PHP backend developer</div>  
   
-
-- ⚡ Here you can see my projects  
-  
-
+⚡ Here you can see my projects  
 <br/>  
-
 
 ## My Skill Set 
 
