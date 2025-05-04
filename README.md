@@ -7,8 +7,7 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top">
+## My Skill Set 
 
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
