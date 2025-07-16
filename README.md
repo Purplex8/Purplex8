@@ -1,7 +1,5 @@
 ### <div align="center">Hello everyone</div>  
   
-⚡ Here you can see my projects  
-<br/>  
 
 ## My Skill Set 
 
