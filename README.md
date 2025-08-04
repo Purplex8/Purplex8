@@ -16,6 +16,17 @@
 </div>  
 
 
+<br/>  
+
+
+## Github Stats  
+<br/>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purplex8&hide_border=true&layout=compact" align="center" />  
+
+<br/>
+
+
 
 <br/>  
 
