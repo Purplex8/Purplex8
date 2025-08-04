@@ -13,20 +13,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</div>
-
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Purplex8&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purplex8&hide_border=true&layout=compact" align="center" />  
-
-<br/>  
-
+</div>  
 
 
 
